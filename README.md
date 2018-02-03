@@ -23,7 +23,7 @@
 * 三脚猫运营。
 
 ## 工作心得
-  * [提高前端团队的开发效率](frontend/improve-group.md)
+* [提高前端团队的开发效率](frontend/improve-group.md)
 
 ## 生活
 * 爱创造~
