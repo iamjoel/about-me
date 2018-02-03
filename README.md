@@ -2,8 +2,6 @@
 ## 概要
 有丰富的 Web 前端开发经验，曾就职于明基，同程，乐逛智能等公司，并担任多家公司的前端顾问。好奇星人，喜欢倒腾。
 
-目前创业中，在做一个前端社区。
-
 * [技术博客](http://www.jianshu.com/u/EhUmA3)
 * [GitHub](https://github.com/iamjoel/)
 
@@ -24,6 +22,9 @@
 * 三角猫白帽子。
 * 三脚猫运营。
 
+## 工作心得
+  * [提高前端团队的开发效率](frontend/improve-group.md)
+
 ## 生活
 * 爱创造~
   * 做工具来避免做单调重复的事。
@@ -40,7 +41,7 @@
 * [花瓣](http://huaban.com/ikdlmmdig4/)
 
 ## 联系我
-Mail: iamjoel007@gmail.com  
+Mail: iamjoel007@gmail.com
 
 微信
 ![微信](contact/wechat.jpg)
