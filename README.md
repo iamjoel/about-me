@@ -1,13 +1,14 @@
 # 九彩拼盘
 ## 概要
 > 有丰富的 Web 前端开发经验，曾就职于明基，同程，乐逛智能等公司，曾担任多家公司的前端顾问。
-好奇星人，喜欢倒腾。
+> 好奇星人，喜欢倒腾。
 
-![](https://www.codewars.com/users/joel/badges/large)
 
 * [技术博客](http://www.jianshu.com/u/EhUmA3)
 * [GitHub](https://github.com/iamjoel/)
 
+CodeWar:  
+![](https://www.codewars.com/users/joel/badges/large)
 
 ## 职业
 * 前端工程师
