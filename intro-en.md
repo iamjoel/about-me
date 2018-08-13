@@ -1,0 +1,2 @@
+# Intro Myself
+My Name is Joel. I'm a web frontend programmer. In my free time, I like watch TV series, like <Black Mirror>, do some reading. During work, I'd like to make tools to avoid doing reapeat work.
