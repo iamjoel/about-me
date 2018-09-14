@@ -14,6 +14,7 @@
 * 听
   * 歌
   * [播客](content/listen.md)
+* [博学或有趣的人](content/people.md)
 * 其他
   * app
   * [笑话](content/gag.md)
