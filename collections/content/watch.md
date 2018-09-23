@@ -31,7 +31,7 @@
   * 魁拔。 有宏大的新的世界观。会有五部，目前出了三部。
   * 大护法。 电影。
   * 大鱼海棠。
-  * 刺客伍六七。 
+  * [刺客伍六七](https://v.qq.com/x/cover/9jh7p3r7ljkxkmc/i0026t08qnq.html)。 
 
 ## 漫画
 * [最强不良传说](http://www.gugu5.com/o/zuiqiangbuliangchuanshuo/) YY，热血。线条感还满喜欢。
