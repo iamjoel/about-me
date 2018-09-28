@@ -12,6 +12,9 @@
 CodeWar:  
 ![](https://www.codewars.com/users/joel/badges/large)
 
+## 对自己的定位
+某方面的资源中心(中介)，需要做的是，如何去获得资源和如何去测评资源(保证资源的质量)。
+
 ## 职业
 * 前端工程师
   * 做过很多项目。[详细](project)
