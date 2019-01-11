@@ -1,15 +1,15 @@
-# 九彩拼盘
+# 九彩拼盘 - Joel
+
 ## 概要
 > 有丰富的 Web 前端开发经验，曾就职于明基，同程，乐逛智能等公司，曾担任多家公司的前端顾问。
 > 
-> 好奇星人，喜欢倒腾。
+> 好奇星人，喜欢倒腾。人生无常，努力做最好的自己。
 
 
 * [技术博客](http://www.jianshu.com/u/EhUmA3)
 * [GitHub](https://github.com/iamjoel/) **[概览](https://hacknical.com/iamjoel/github?locale=zh)**
 * [我的收藏](https://github.com/iamjoel/my-treasure)
 
-CodeWar:  
 ![](https://www.codewars.com/users/joel/badges/large)
 
 ## 对未来的自己的定位
