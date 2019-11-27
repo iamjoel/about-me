@@ -72,6 +72,7 @@
 * [GitHub](https://github.com/iamjoel/)
 * [开发者头条](https://toutiao.io/u/195375/subjects)
 * [花瓣](http://huaban.com/ikdlmmdig4/)
+* [日常](daily-supermassive)
 
 ## 联系我
 Mail: iamjoel007@gmail.com
