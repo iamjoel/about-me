@@ -1,0 +1,24 @@
+{
+  "name": "about-me",
+  "version": "1.0.0",
+  "description": "About Joel.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamjoel/about-me.git"
+  },
+  "author": "Joel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamjoel/about-me/issues"
+  },
+  "homepage": "https://github.com/iamjoel/about-me#readme",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.3.0",
+    "vuepress": "^1.3.0"
+  }
+}
