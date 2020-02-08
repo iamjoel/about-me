@@ -79,4 +79,4 @@
 Mail: iamjoel007@gmail.com
 
 微信
-![微信](contact/wechat.jpg)
+![微信](./wechat.jpg)
