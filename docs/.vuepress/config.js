@@ -12,7 +12,17 @@ module.exports = {
     sidebar: [{
       title: '关于我',
       path: '/',
+    },{
+      title: '原则&方法论',
+      path: '/priciple',
+    },{
+      title: '技能',
       collapsable: true,
-    }]
+      children: [
+        {title: '前端', path: '/tech/front-end'},
+        {title: '后端', path: '/tech/back-end'},
+      ]
+    },]
+
   }
 }
