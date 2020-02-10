@@ -5,9 +5,8 @@
 > 生活上是好奇星人，喜欢倒腾。
 > 做正确的事，然后正确地做事。
 
-
 * [技术博客](http://www.jianshu.com/u/EhUmA3)
-* [GitHub](https://github.com/iamjoel/) **[概览](https://hacknical.com/iamjoel/github?locale=zh)** [收藏的项目](awesome-stars/iamjoel.md)
+* [GitHub](https://github.com/iamjoel/),**[GitHub 概览](https://hacknical.com/iamjoel/github?locale=zh)**,[收藏的项目](awesome-stars/iamjoel.md)
 * [我做过的分享](share)
 * [我的收藏](https://github.com/iamjoel/my-treasure)
 
