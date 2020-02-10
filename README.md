@@ -8,6 +8,7 @@
 
 * [技术博客](http://www.jianshu.com/u/EhUmA3)
 * [GitHub](https://github.com/iamjoel/) **[概览](https://hacknical.com/iamjoel/github?locale=zh)**
+* [我做过的分享](share)
 * [我的收藏](https://github.com/iamjoel/my-treasure)
 
 ![](https://www.codewars.com/users/joel/badges/large)

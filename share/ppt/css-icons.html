@@ -1,0 +1,271 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+
+    <title>PPT－用纯CSS来做图标</title>
+
+    <meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+    <meta name="author" content="Hakim El Hattab">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    <link rel="stylesheet" href="css/reveal.min.css">
+    <link rel="stylesheet" href="css/theme/default.css" id="theme">
+
+    <!-- For syntax highlighting -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
+
+    <link rel="stylesheet" href="style.css">
+    <!--[if lt IE 9]>
+        <script src="lib/js/html5shiv.js"></script>
+        <![endif]-->
+</head>
+
+<body>
+
+    <div class="reveal">
+
+        <!-- Any section element inside of this container is displayed as a slide -->
+        <div class="slides">
+            <section>
+                <h1>用纯CSS做图标</h1>
+            </section>
+            <section>
+                <h2>目录</h2>
+                <ul>
+                    <li>关于我</li>
+                    <li>纯CSS做的酷炫的图标</li>
+                    <li>如何实现</li>
+                    <li>其他方式来做图标</li>
+                    <li>Q&A</li>
+                </ul>
+            </section>
+            <section>
+                <h2>关于我</h2>
+            </section>
+            <section>
+                <img id="avatar" src="imgs/avatar.jpg">
+                <h2 class="fragment">努力做体面</h2>
+                <h2>前端攻城狮</h2>
+            </section>
+            <section>
+                <h2>更多</h2>
+                <ul>
+                    <li><a href="https://github.com/iamjoel">Github</a>
+                    </li>
+                    <li><a href="http://www.jianshu.com/users/EhUmA3/">博客</a>
+                    </li>
+                    <li>iamjoel007@gmail.com</li>
+                </ul>
+            </section>
+            <section>
+                <h2>纯CSS做的酷炫的图标</h2>
+            </section>
+            <section>
+                <a href="http://saeedalipoor.github.io/icono/"><img src="imgs/demo-2.png" height="657" width="645" alt="">
+                </a>
+            </section>
+            <section>
+                <a href="http://pattle.github.io/simpsons-in-css/"><img src="imgs/demo-1.jpg" height="691" width="606" alt="">
+                </a>
+            </section>
+            <section>
+                <h2>如何实现</h2>
+            </section>
+            <section>
+                <p>所有的图标都是通过一些基本的图标变形组合而来的</p>
+            </section>
+            <section>
+                <a href="../icons.html"><img src="imgs/summary.png" height="661" width="670">
+                </a>
+            </section>
+            <section class="browser compatibility">
+                <h2>浏览器兼容性</h2>
+                <ul>
+                    <li>
+                        <a href="http://caniuse.com/#feat=border-radius">border-radius</a> IE9+,Chrome,Firfox
+                    </li>
+                    <li class="fragment"><a href="http://caniuse.com/#feat=transforms2d">transform</a> IE9+,Chrome,Firfox</li>
+                    <li class="fragment"><a href="http://caniuse.com/#feat=css-boxshadow">boxshadow</a> IE9+,Chrome,Firfox</li>
+                    <li class="fragment"><a href="http://caniuse.com/#feat=css-gencontent">:before,:after</a> IE8+,Chrome,Firfox</li>
+                </ul>
+            </section>
+            <section>
+                <h2>其他方式来做图标</h2>
+            </section>
+            <section>
+                <section>
+                    <h2>图片</h2>
+                </section>
+                <section>
+                    <h2>优点</h2>
+                    <ul>
+                        <li>兼容主流浏览器。包括，IE6+</li>
+                        <li class="fragment">复杂图标相对比较好做</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>缺点</h3>
+                    <ul>
+                        <li>缩放会有失真</li>
+                        <li class="fragment">不能调整图标内容的颜色</li>
+                    </ul>
+                </section>
+
+            </section>
+
+
+            <section>
+                <section>
+                    <h2>icon font</h2>
+                    <p>把图标做成字体</p>
+                </section>
+                <section>
+                    <a href="http://fortawesome.github.io/Font-Awesome/icons/"><img src="imgs/font-icon.png" height="237" width="1016" alt=""></a>
+                </section>
+                <section>
+                    <h2>优点</h2>
+                    <ul>
+                        <li>兼容主流浏览器。包括，IE6+</li>
+                        <li class="fragment">缩放不失真</li>
+                        <li class="fragment">能调整图标的颜色</li>
+                        <li class="fragment">有许多现成能用的<a href="https://github.com/lvwzhen/iconpark">资源</a></li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>缺点</h3>
+                    <ul>
+                        <li>新增图标时略显麻烦</li>
+                    </ul>
+                </section>
+            </section>
+            <section>
+                <section>
+                    <h2>SVG icons</h2>
+                    <p>用SVG来做图标</p>
+                </section>
+                <section>
+                    <a href="http://svgicons.sparkk.fr/"><img src="imgs/svg-icon.png" height="378" width="973" alt=""></a>
+                </section>
+                <section>
+                    <h2>优点</h2>
+                    <ul>
+                        <li>缩放不失真</li>
+                        <li class="fragment">能调整图标的颜色</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>缺点</h3>
+                    <ul>
+                        <li>浏览器兼容性： 兼容IE9+</li>
+                    </ul>
+                </section>
+            </section>
+            <section>
+                <section>
+                    <h2>html字符实体</h2>
+                </section>
+                <section>
+                    <a href="http://www.amp-what.com/unicode/search/weather"><img src="imgs/html-entities.png" height="199" width="1141" alt=""></a>
+                </section>
+                <section>
+                    <h2>优点</h2>
+                    <ul>
+                        <li>缩放不失真</li>
+                        <li class="fragment">能调整图标的颜色</li>
+                        <li class="fragment">无需制作</li>
+                    </ul>
+                </section>
+                <section>
+                    <h3>缺点</h3>
+                    <ul>
+                        <li>兼容的浏览器与具体的HTML实体相关。</li>
+                    </ul>
+                </section>
+            </section>
+
+            <section>
+                <h2>拓展阅读</h2>
+                <ul>
+                    <li><a href="http://justjavac.com/html5/2014/10/10/single-div-drawings-with-css.html">基于单个 div 的 CSS 绘图</a></li>
+                    <li><a href="http://css-tricks.com/icon-fonts-vs-svg/">Inline SVG vs Icon Fonts [CAGEMATCH]</a></li>
+                    <li><a href="http://yisibl.github.io/share/exceed-icon-font-sh.html#/1">超越 icon font</a></li>
+                </ul>
+            </section>
+            <section>
+                <h2>Q&A</h2>
+            </section>
+            
+            <section>
+                <h2>The End</h2>
+                <h2>谢谢！</h2>
+            </section>
+        </div>
+
+    </div>
+
+    <script src="lib/js/head.min.js"></script>
+    <script src="js/reveal.min.js"></script>
+
+    <script>
+    // Full list of configuration options available here:
+    // https://github.com/hakimel/reveal.js#configuration
+    Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+
+        theme: 'simple', // available themes are in /css/theme
+        transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+
+        // Parallax scrolling
+        // parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg',
+        // parallaxBackgroundSize: '2100px 900px',
+
+        // Optional libraries used to extend on reveal.js
+        dependencies: [{
+            src: 'lib/js/classList.js',
+            condition: function() {
+                return !document.body.classList;
+            }
+        }, {
+            src: 'plugin/markdown/marked.js',
+            condition: function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src: 'plugin/markdown/markdown.js',
+            condition: function() {
+                return !!document.querySelector('[data-markdown]');
+            }
+        }, {
+            src: 'plugin/highlight/highlight.js',
+            async: true,
+            callback: function() {
+                hljs.initHighlightingOnLoad();
+            }
+        }, {
+            src: 'plugin/zoom-js/zoom.js',
+            async: true,
+            condition: function() {
+                return !!document.body.classList;
+            }
+        }, {
+            src: 'plugin/notes/notes.js',
+            async: true,
+            condition: function() {
+                return !!document.body.classList;
+            }
+        }]
+    });
+    </script>
+
+</body>
+
+</html>
