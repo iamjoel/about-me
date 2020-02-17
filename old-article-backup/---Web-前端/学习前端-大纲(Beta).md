@@ -1,0 +1,33 @@
+* HTML(1周)
+    * 了解HTML
+    * 常见标签及属性
+    * 会用Chrome，Firefox以及IE审查元素
+    * 能选择合适的标签来写页面
+* CSS(2周)
+    * 了解CSS
+    * 盒模型
+    * 常见选择器
+    * 常用规则
+    * CSS的继承
+    * CSS的层叠规则
+    * position知识
+    * 浮动
+    * 布局
+    * CSS Sprites
+* Photoshop的简单使用(1天)
+* Javascript(3周)
+	* 了解Javascript
+	* 基本语法
+	* 继承
+	* 闭包
+	* DOM
+	* BOM
+	* HTTP协议 ajax
+	* 用静态服务器来做简单数据交互
+* 常见框架(2周)
+	* JS
+		* jQuery
+		* underscore
+	* CSS
+		* Bootstrap
+* 练习项目(1-2周)
