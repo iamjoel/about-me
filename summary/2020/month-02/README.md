@@ -4,6 +4,13 @@
 * [绝代双骄](series/绝代双骄.md)
 * [马赛克日本(Mosaic Japan)](https://baike.baidu.com/item/%E9%A9%AC%E8%B5%9B%E5%85%8B%E6%97%A5%E6%9C%AC)。 介绍AV界的片子，有深度，也有视觉冲击力。
 * overflow。 日本动画。 每集好短。
+* [安家](series/安家.md)
+* [良医](series/good-doctor.md)
+* 9号密事-第三季
+
+搜了下好看的历史剧：
+国内剧： https://www.maigoo.com/top/412210.html 大清盐商，大明王朝1556，走向共和
+美剧：https://www.zhihu.com/question/31322626 (美第奇家族，金雀花王朝)
 
 ## 电影
 * [流感](movie/流感.md)。 韩国的。
@@ -23,3 +30,5 @@
   * 芳香。 微信和京东搞的。
   * 咪店。 同程的人搞的。柳青。
   * 同程社区团购。 何总。
+
+给仲写了下简历
