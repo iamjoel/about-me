@@ -1,7 +1,7 @@
 # 工作自我介绍
 我有较丰富的软件开发经验。
   * 前端方面：用过主流的技术和框架，jQuery，Backbone，Angular 1，Vue，React。 Less，SaSS，grunt，gulp，webpack等。 同时，积累了自己的项目脚手架，代码插件库，代码生成工具和代码片段。
-  * 后端方面：工作早期做过 Java。后来独立用 Node.js 做过 Web项目，写过爬虫。用 Python 做过微信个人号机器人，写着玩过 Go。
+  * 后端方面：工作早期做过 Java。独立用 Node.js 做过 Web项目，写过爬虫。用 Python 倒腾过微信个人号机器人。写着玩过 Go。
 
 注重知识的整理和积累。从工作到现在，一共写了300多篇技术文章。
 
