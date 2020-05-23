@@ -8,11 +8,13 @@
 ## 文档管理
 * 印象笔记
 * 语雀
+* [XMind](https://www.xmind.cn/xmind2020/) 思维导图软件。
 
 ## 常用工具
 * 浏览器： [Chrome](google.cn/chrome/index.html) 插件TODO。
 * 解压工具：[eZip](https://ezip.awehunt.com/?locale=zh-CN)
 * Doc，Excel，PPT，PDF等常见文档查看，编辑：[WPS](https://www.wps.com/mac/)
+* [IINA](https://iina.io/) Mac OS多媒体播放器。
 
 ## 前端开发软件
 * Node。 
