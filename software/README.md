@@ -1,6 +1,7 @@
 # 我的必装软件
 ## 输入法
-鼠须管
+鼠须管 
+control + ` 来设置
 
 ## 键盘键位定制
 [Karabiner Elements](https://karabiner-elements.pqrs.org/)
