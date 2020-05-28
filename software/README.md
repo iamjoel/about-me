@@ -8,7 +8,7 @@ control + ` 来设置
 
 ## 文档管理
 * 印象笔记
-* 语雀
+* [语雀](https://www.yuque.com/install/desktop)
 * [XMind](https://www.xmind.cn/xmind2020/) 思维导图软件。
 
 ## 常用工具
@@ -28,7 +28,7 @@ control + ` 来设置
   * [VS Code](https://code.visualstudio.com/) 插件TODO
   * Sublime
 * Git 工具。 配置 git alias。
-  * Fork
+  * [Fork](https://git-fork.com/)
   * GitHub 桌面版
 * 接口
   * Postman
