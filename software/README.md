@@ -1,7 +1,6 @@
 # 我的必装软件
 ## 输入法
-鼠须管 
-control + ` 来设置
+[鼠须管](https://rime.im/)： 用 control + ` 来选择输入方案。
 
 ## 键盘键位定制
 [Karabiner Elements](https://karabiner-elements.pqrs.org/)
@@ -19,7 +18,7 @@ control + ` 来设置
 
 ## 前端开发软件
 * Node。 
-  * nvm。 Node的版本: v10.18.0,  v13.5.0。
+  * [nvm](https://github.com/nvm-sh/nvm)。 Node的版本: v10.18.0,  v13.5.0。
   * 第三方包。
     * cnpm。
     * Yarn。设置镜像 tYarn。
