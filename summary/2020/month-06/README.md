@@ -12,3 +12,5 @@
 ## 写文章
 * 07(第一周): 层级很深的组件 获取 最外层组件的数据 - React 和 Vue 的解决方案
 * 计划第二周 React 的最佳实践汇总。
+* 04 Apple script
+* 05 分屏软件： [Hyperdock](https://bahoom.com/hyperdock/), [Spectacle](https://www.spectacleapp.com/)。 和 Mac 自带的。
